@@ -2,23 +2,27 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Ajay%20Ullengalla&fontSize=42&fontColor=fff&fontAlignY=35&desc=Full%20Stack%20%26%20Backend%20Developer&descSize=18&descAlignY=55&animation=twinkling" alt="Header banner" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Building+scalable+backends+with+Java+%26+Spring+Boot;Crafting+REST+APIs+%26+data-driven+applications;React+%2B+MySQL+full-stack+delivery" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Ajay%20Ullengalla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=55&descSize=16" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2500&pause=800&color=F093FB&center=true&vCenter=true&width=600&lines=Clean+architecture+%E2%80%A2+Maintainable+code+%E2%80%A2+Growth+mindset" alt="Subtitle typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;REST+API+Development+with+Spring+Boot;Full+Stack+Development+with+React+%26+MySQL" />
 
 <br/><br/>
 
-**B.Tech · Computer Science and Engineering**
+<img src="https://komarev.com/ghpvc/?username=AjayUllengalla&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<img src="https://komarev.com/ghpvc/?username=AjayUllengalla&label=Profile%20views&color=667eea&style=flat-square" alt="Profile views" />
+<br/><br/>
 
-<br/>
-
-[LinkedIn](https://www.linkedin.com/in/ajay-ullengalla-28m/) · [Email](mailto:ullengallaajay28@gmail.com) · [GitHub](https://github.com/AjayUllengalla)
+<a href="https://www.linkedin.com/in/ajay-ullengalla-28m/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ullengallaajay28@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/AjayUllengalla">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
