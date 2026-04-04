@@ -28,9 +28,13 @@
 
 ---
 
-## About
+---## 👨‍💻 About Me
 
-I'm **Ajay Ullengalla**, a software developer focused on **backend systems**, **REST APIs**, and **full-stack delivery** with **Java** and **Spring Boot**. I prioritize clear architecture, maintainable code, and databases that stay reliable as products evolve.
+I'm **Ajay Ullengalla**, a passionate **Full Stack & Backend Developer** specializing in building **scalable backend systems**, **robust REST APIs**, and **data-driven applications** using **Java** and **Spring Boot**.
+
+I focus on writing **clean, maintainable code** with well-structured architectures that support long-term product growth. My approach emphasizes **performance, reliability, and real-world problem solving**, ensuring systems remain efficient as they scale.
+
+💡 I enjoy transforming complex requirements into simple, efficient solutions while continuously learning and improving my development practices.
 
 ---
 
